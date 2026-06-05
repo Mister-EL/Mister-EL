@@ -21,6 +21,6 @@
 ## 🔗 Контакты
 
 * **Discord:** *mr.liberator*
-* **Gmail:** *[krasilov.s.a.el@gmail.com](mailto:krasilov.s.a.el@gmail.com)*
+* **Gmail:** *не пишите*
 
 🚀 Открыт к новым идеям, проектам и техническим обсуждениям.
