@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210" role="img" aria-labelledby="title desc">
+  <title id="title">Noctalia</title>
+  <desc id="desc">Форк оболочки Noctalia для Wayland. Схематический рабочий стол.</desc>
+  <style>
+    text { font-family: "DejaVu Sans Mono", "Liberation Mono", monospace; }
+    .title { fill: #eef2e8; font-weight: 700; }
+    .muted { fill: #b0bcb5; }
+    .green { fill: #b8d78e; }
+    .amber { fill: #e9b969; }
+  </style>
+<rect x="0.5" y="0.5" width="999" height="209" fill="#171d1e" rx="12" stroke="#45534d"/><rect x="20" y="27" width="4" height="156" fill="#b8d78e" /><path d="M648 24V186" stroke="#45534d"/><text x="40" y="79" font-size="54" class="title" >Noctalia</text><text x="42" y="121" font-size="25" class="muted" >Оболочка для Wayland</text><text x="40" y="172" font-size="21" class="amber" >fork / noctalia-dev</text><rect x="692" y="34" width="266" height="141" fill="#232c2c" rx="7" stroke="#45534d"/><rect x="705" y="45" width="240" height="14" fill="#465548" rx="4"/><rect x="705" y="72" width="85" height="89" fill="#171d1e" rx="4"/><rect x="803" y="72" width="142" height="36" fill="#171d1e" rx="4"/><rect x="803" y="118" width="142" height="43" fill="#171d1e" rx="4"/><path d="M759 86A27 27 0 1 0 763 139A32 32 0 0 1 759 86Z" fill="#e9b969"/><path d="M818 89H877 M818 136H912 M818 145H867" stroke="#b8d78e" stroke-width="3"/><circle cx="922" cy="90" r="6" fill="#e9b969"/>
+</svg>

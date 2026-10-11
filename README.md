@@ -1,26 +1,26 @@
-# 🏴‍☠️ Мой профиль
+![Mister-EL. Python, C, Bash. Linux и сети.](assets/banner.svg)
 
-## Обо мне
+Пишу на **Python, C и Bash**. Разбираюсь в Linux, сетях и низкоуровневом коде:
+маршрутизация, туннели, автоматизация и инструменты для администрирования.
 
-Мои основные интересы связаны с **сетевыми технологиями**, **Linux-системами** и **низкоуровневым программированием**.
-Разрабатываю и изучаю решения, связанные с маршрутизацией, туннелированием, безопасностью и устойчивостью сетей.
-Пишу на **Python**, **C** и **Bash**, создаю инструменты для автоматизации, анализа и администрирования.
+## Проекты
 
-[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Mister-EL\&show_icons=true\&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![PvZ-terminal: Plants vs. Zombies в терминале](assets/pvz-terminal.svg)](https://github.com/Mister-EL/PvZ-terminal)
 
-## 🌍 Интересы
+Растения, зомби и всё поле в терминале. Написано на Python.
+[Запуск и управление](https://github.com/Mister-EL/PvZ-terminal#readme).
 
-* **Сети:** туннелирование, маршрутизация, безопасность
-* **Разработка:** Python, C, Bash
-* **Системы:** Linux, автоматизация, DevOps-практики
+[![Vesper Eye: готический глаз для рабочего стола](assets/vesper-eye.svg)](https://github.com/Mister-EL/dms-vesper-eye)
 
-## 📌 Проекты
+Глаз для DankMaterialShell: следит за указателем, моргает и реагирует на нажатия.
+QML, Hyprland и Quickshell. Версия для DMS пока в preview.
 
-* **Пока не опубликованы, но в процессе разработки.**
+[![Noctalia: работа с оболочкой Wayland](assets/noctalia.svg)](https://github.com/Mister-EL/noctalia)
 
-## 🔗 Контакты
+Мой форк [Noctalia](https://github.com/noctalia-dev/noctalia), оболочки для Wayland.
+Исходный проект принадлежит команде Noctalia.
 
-* **Discord:** *mr.liberator*
-* **Gmail:** *не пишите*
+[![Tiny-Station: участие в поддержке проекта SS14](assets/tiny-station.svg)](https://github.com/Krasnov-Industries/Tiny-Station)
 
-🚀 Открыт к новым идеям, проектам и техническим обсуждениям.
+Участвую в поддержке Tiny-Station, форка Space Station 14.
+Репозиторий организации, стек C#.

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210" role="img" aria-labelledby="title desc">
+  <title id="title">Tiny-Station</title>
+  <desc id="desc">Участие в поддержке форка Space Station 14. Схематическая космическая станция, C#.</desc>
+  <style>
+    text { font-family: "DejaVu Sans Mono", "Liberation Mono", monospace; }
+    .title { fill: #eef2e8; font-weight: 700; }
+    .muted { fill: #b0bcb5; }
+    .green { fill: #b8d78e; }
+    .amber { fill: #e9b969; }
+  </style>
+<rect x="0.5" y="0.5" width="999" height="209" fill="#171d1e" rx="12" stroke="#45534d"/><rect x="20" y="27" width="4" height="156" fill="#b8d78e" /><path d="M648 24V186" stroke="#45534d"/><text x="40" y="79" font-size="54" class="title" >Tiny-Station</text><text x="42" y="121" font-size="25" class="muted" >Участие в проекте SS14</text><text x="40" y="172" font-size="21" class="amber" >C# / Space Station 14</text><path d="M680 110H970 M825 22V188" fill="none" stroke="#45534d" stroke-width="2"/><rect x="764" y="74" width="122" height="72" fill="#232c2c" rx="5" stroke="#b8d78e" stroke-width="2"/><rect x="793" y="51" width="64" height="24" fill="#232c2c" stroke="#45534d" stroke-width="2"/><rect x="793" y="147" width="64" height="23" fill="#232c2c" stroke="#45534d" stroke-width="2"/><rect x="687" y="80" width="26" height="60" fill="#33453b" stroke="#45534d"/><path d="M687 100H713 M687 120H713" stroke="#b8d78e" stroke-width="1"/><rect x="719" y="80" width="26" height="60" fill="#33453b" stroke="#45534d"/><path d="M719 100H745 M719 120H745" stroke="#b8d78e" stroke-width="1"/><rect x="900" y="80" width="26" height="60" fill="#33453b" stroke="#45534d"/><path d="M900 100H926 M900 120H926" stroke="#b8d78e" stroke-width="1"/><rect x="932" y="80" width="26" height="60" fill="#33453b" stroke="#45534d"/><path d="M932 100H958 M932 120H958" stroke="#b8d78e" stroke-width="1"/><path d="M777 97H807 M777 109H807 M777 121H794" stroke="#b8d78e" stroke-width="3"/><circle cx="851" cy="110" r="17" fill="#171d1e" stroke="#e9b969" stroke-width="2"/><circle cx="851" cy="110" r="5" fill="#e9b969"/><path d="M680 43H686 M683 40V46" stroke="#b0bcb5"/><path d="M942 38H948 M945 35V41" stroke="#b0bcb5"/><path d="M716 166H722 M719 163V169" stroke="#b0bcb5"/><path d="M927 173H933 M930 170V176" stroke="#b0bcb5"/>
+</svg>
