@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210" role="img" aria-labelledby="title desc">
+  <title id="title">Vesper Eye</title>
+  <desc id="desc">Готический глаз для рабочего стола DankMaterialShell. QML, Hyprland и DMS.</desc>
+  <style>
+    text { font-family: "DejaVu Sans Mono", "Liberation Mono", monospace; }
+    .title { fill: #eef2e8; font-weight: 700; }
+    .muted { fill: #b0bcb5; }
+    .green { fill: #b8d78e; }
+    .amber { fill: #e9b969; }
+  </style>
+<rect x="0.5" y="0.5" width="999" height="209" fill="#171d1e" rx="12" stroke="#45534d"/><rect x="20" y="27" width="4" height="156" fill="#b8d78e" /><path d="M648 24V186" stroke="#45534d"/><text x="40" y="79" font-size="54" class="title" >Vesper Eye</text><text x="42" y="121" font-size="25" class="muted" >Глаз на рабочем столе</text><text x="40" y="172" font-size="21" class="amber" >QML / Hyprland / DMS</text><path d="M690 106Q824 2 956 106Q824 210 690 106Z" fill="#ddd2b8" stroke="#e9b969" stroke-width="2"/><path d="M690 106Q824 2 956 106" fill="none" stroke="#806d52" stroke-width="8"/><circle cx="827" cy="106" r="45" fill="#614952"/><circle cx="827" cy="106" r="33" fill="#99835e"/><path d="M849.0 106.0L859.0 106.0" stroke="#5c5341" stroke-width="3"/><path d="M846.1 117.0L854.7 122.0" stroke="#5c5341" stroke-width="3"/><path d="M838.0 125.1L843.0 133.7" stroke="#5c5341" stroke-width="3"/><path d="M827.0 128.0L827.0 138.0" stroke="#5c5341" stroke-width="3"/><path d="M816.0 125.1L811.0 133.7" stroke="#5c5341" stroke-width="3"/><path d="M807.9 117.0L799.3 122.0" stroke="#5c5341" stroke-width="3"/><path d="M805.0 106.0L795.0 106.0" stroke="#5c5341" stroke-width="3"/><path d="M807.9 95.0L799.3 90.0" stroke="#5c5341" stroke-width="3"/><path d="M816.0 86.9L811.0 78.3" stroke="#5c5341" stroke-width="3"/><path d="M827.0 84.0L827.0 74.0" stroke="#5c5341" stroke-width="3"/><path d="M838.0 86.9L843.0 78.3" stroke="#5c5341" stroke-width="3"/><path d="M846.1 95.0L854.7 90.0" stroke="#5c5341" stroke-width="3"/><ellipse cx="829" cy="106" rx="11" ry="24" fill="#171d1e"/><circle cx="815" cy="92" r="6" fill="#eef2e8"/><path d="M675 47H706 M675 47V73 M969 166H940 M969 166V140" fill="none" stroke="#45534d" stroke-width="2"/>
+</svg>
